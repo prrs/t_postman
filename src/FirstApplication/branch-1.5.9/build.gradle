@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('branch-1.5.9.jar'))
